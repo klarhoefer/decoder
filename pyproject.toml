@@ -1,14 +1,13 @@
 [project]
 name = "decoder"
 version = "0.1.0"
-description = "Add your description here"
+description = "Einfaches PyTorch-Projekt: Modell trainieren und ausführen"
 readme = "README.md"
 authors = [
     { name = "Udo Klarhöfer", email = "klarhoefer@gmail.com" }
 ]
 requires-python = ">=3.12"
 dependencies = [
-    "numpy>=2.5.3",
     "torch>=2.14.1",
 ]
 
